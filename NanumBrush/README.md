@@ -8,11 +8,12 @@
 
 ## 사용방법
 
-### link 방식 (권장)
-	<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/eondcom/webfont/master/NanumBrush/nanumbrush.css">
-
 ### import 방식
-	@import url(https://cdn.rawgit.com/eondcom/webfont/master/NanumBrush/nanumbrush.css);
+	@import url(//cdn.rawgit.com/eondcom/webfont/master/NanumBrush/nanumbrush.css);
+
+### link 방식
+	<link rel="stylesheet" type="text/css" href="//cdn.rawgit.com/eondcom/webfont/master/NanumBrush/nanumbrush.css">
+
 
 ## 적용
 > 아직 아래는 적용을 안했습니다. -_-; 대단히 귀찮습..
