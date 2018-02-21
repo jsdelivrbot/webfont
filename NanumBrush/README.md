@@ -6,9 +6,6 @@
 나눔손글씨 붓체 웹폰트 입니다.
 [Demo](https://codepen.io/eond/pen/xYjwNg)
 
-## 옵션
-Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
-
 ## 사용방법
 
 ### link 방식 (권장)
@@ -19,6 +16,9 @@ Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
 
 ## 적용
 > 아직 아래는 적용을 안했습니다. -_-; 대단히 귀찮습..
+
+## 옵션
+Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
 
 ### css (예)
 	body		{ font-family: 'NanumBrush', sans-serif; }
