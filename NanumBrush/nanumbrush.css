@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+/*
+ * Hangeul NanumBrush Font
+ */
+
+@font-face {
+	font-family: 'NanumBrush';
+	/* font-family: 'Nanum Brush Script'; */
+	src: url(https://cdn.rawgit.com/eondcom/webfont/master/NanumBrush/NanumBrush.eot);
+	src: url(https://cdn.rawgit.com/eondcom/webfont/master/NanumBrush/NanumBrush.eot?#iefix) format('embedded-opentype'),
+	url(https://cdn.rawgit.com/eondcom/webfont/master/NanumBrush/NanumBrush.woff) format('woff'),
+	url(https://cdn.rawgit.com/eondcom/webfont/master/NanumBrush/NanumBrush.ttf) format('truetype');
+}
