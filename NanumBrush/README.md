@@ -1,8 +1,8 @@
-# NanumSquare
-> 반듯한 직선으로 제목에 잘 어울리며 모바일에서도 잘 보이는 글꼴입니다. 꼭 필요한 2,350자만을 추려 용량을 가볍게 줄였고 웹 환경에서 보다 편리하게 사용 가능합니다. http://hangeul.naver.com/2016/nanum
+# NanumBrush
+> 나눔손글씨 펜체는 깔끔한 선 처리와 생동감이 돋보입니다. 반면 나눔손글씨 붓체는 꾸미지 않은 편안함과 리듬감이 매력적입니다. 2009년 ‘손글씨 공모전’에 응모한 3만 3천 작품 중 대상작으로 뽑힌 정재경 님의 작품을 나눔손글씨체로 개발했습니다. 나눔 손글씨 붓체, 펜체 / 한글 2,350자, 영어 94자, KS약물 986자 http://hangeul.naver.com/2017/nanum
 
-나눔스퀘어 웹폰트 입니다.
-[Demo](https://htmlpreview.github.io/?https://github.com/moonspam/NanumSquare/blob/master/index.html)
+나눔손글씨 붓체 웹폰트 입니다.
+[Demo](https://codepen.io/eond/pen/xYjwNg)
 
 ## 옵션
 Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
