@@ -42,7 +42,7 @@ bower install NanumGothic
 `css` 에서 설정
 
 ```
-@import url(//cdn.rawgit.com/eondcom/webfont/master/NanumBrush/nanumbrush.css);
+@import url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic.css);
 ```
 
 ```css
