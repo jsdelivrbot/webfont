@@ -1,3 +1,4 @@
+@charset "utf-8";
 /* 
  * Nanum Gothic (Korean) http://www.google.com/fonts/earlyaccess
  */
@@ -5,23 +6,22 @@
     font-family: 'Nanum Gothic';
     font-style: normal;
     font-weight: 400;
-    src: url(./fonts/NanumGothic-Regular.eot);
-    src: url(./fonts/NanumGothic-Regular.eot?#iefix) format('embedded-opentype'), url(./fonts/NanumGothic-Regular.woff2) format('woff2'), url(./fonts/NanumGothic-Regular.woff) format('woff'), url(./fonts/NanumGothic-Regular.ttf) format('truetype');
+    src: url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-Regular.eot);
+    src: url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-Regular.eot?#iefix) format('embedded-opentype'), url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-Regular.woff2) format('woff2'), url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-Regular.woff) format('woff'), url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-Regular.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Nanum Gothic';
     font-style: normal;
     font-weight: 700;
-    src: url(./fonts/NanumGothic-Bold.eot);
-    src: url(./fonts/NanumGothic-Bold.eot?#iefix) format('embedded-opentype'), url(./fonts/NanumGothic-Bold.woff2) format('woff2'), url(./fonts/NanumGothic-Bold.woff) format('woff'), url(./fonts/NanumGothic-Bold.ttf) format('truetype');
+    src: url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-Bold.eot);
+    src: url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-Bold.eot?#iefix) format('embedded-opentype'), url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-Bold.woff2) format('woff2'), url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-Bold.woff) format('woff'), url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-Bold.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Nanum Gothic';
     font-style: normal;
     font-weight: 800;
-    src: url(./fonts/NanumGothic-ExtraBold.eot);
-    src: url(./fonts/NanumGothic-ExtraBold.eot?#iefix) format('embedded-opentype'), url(./fonts/NanumGothic-ExtraBold.woff2) format('woff2'), url(./fonts/NanumGothic-ExtraBold.woff) format('woff'), url(./fonts/NanumGothic-ExtraBold.ttf) format('truetype');
+    src: url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-ExtraBold.eot);
+    src: url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-ExtraBold.eot?#iefix) format('embedded-opentype'), url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-ExtraBold.woff2) format('woff2'), url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-ExtraBold.woff) format('woff'), url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic-ExtraBold.ttf) format('truetype');
 }
-
