@@ -41,6 +41,10 @@ bower install NanumGothic
 
 `css` 에서 설정
 
+```
+@import url(//cdn.rawgit.com/eondcom/webfont/master/NanumGothic/NanumGothic.css);
+```
+
 ```css
 body {
 	font-family: 'Nanum Gothic', sans-serif;
