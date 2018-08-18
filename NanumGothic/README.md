@@ -43,7 +43,7 @@ bower install NanumGothic
 
 ```css
 body {
-	font-family: 'NanumGothic', sans-serif;
+	font-family: 'Nanum Gothic', sans-serif;
 }
 ```
 
