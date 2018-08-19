@@ -1,6 +1,7 @@
 @font-face {
  font-family: 'mywizz';
  font-weight: 100;
+ font-size:12px;
  src: url(mywizz_ttobak.eot);
  src: url(mywizz_ttobak.eot?#iefix) format('embedded-opentype'),
       url(mywizz_ttobak.woff) format('woff'),
