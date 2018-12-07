@@ -10,7 +10,7 @@ Regular(100), Bold(600) 지원됩니다.
 ## 사용방법
 
 ### link 방식 (권장)
-	<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/eondcom/webfont/master/WizzTTobak/mywizz.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/eondcom/webfont/WizzTTobak/mywizz.css">
 
 ### import 방식
 	@import url(https://cdn.rawgit.com/eondcom/webfont/master/WizzTTobak/mywizz.css);
